@@ -24,4 +24,5 @@ The research paper is going to publised soon. Once the paper is published, the l
     *   It will ask the address of the 'train' folder and will store that address in `path_of_train_dir.txt`. 
 * To resize the data run `python3 pre-process.py`.
 * To perform classical data augmentation on the training data run `python3 augment.py`.
-* To train and create the model 
+* To train and create the model run `python3 train.py`.
+    * Model and the training details will be stored in `result` directory.
